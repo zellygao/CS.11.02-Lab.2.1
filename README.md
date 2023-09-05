@@ -15,6 +15,8 @@ Ensure that your parameter names are meaningful variable names.
 
 Ensure that all the methods that you write in this lab are declared to be static. 
 
+Ensure that all the methods that you write in this lab contain a return statement. That is, none of the methods that you write in this lab will contain print statements. 
+
 1. Write a method called <b>add</b> that takes two integers, adds them together, and returns the result. 
 Below is an example of a call to the add method.
 
