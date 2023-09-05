@@ -13,6 +13,8 @@ In intelliJ, a neat shortcut to create a main method is to type “main” and p
 
 Ensure that your parameter names are meaningful variable names.
 
+Ensure that all the methods that you write in this lab are declared to be static. 
+
 1. Write a method called add that takes two integers, adds them together, and returns the result. 
 Below is an example of a call to the add method.
 add(3,8) → 11	
